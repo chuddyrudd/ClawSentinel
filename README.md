@@ -1,4 +1,4 @@
-# Safe Skill Auditor
+# ClawSentinel
 
 Scans any ClawHub or OpenClaw .md skill for dangerous code, malware, and red flags before you install it. Pure local, read-only, DataClaw trained.
 

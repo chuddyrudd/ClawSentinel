@@ -12,7 +12,7 @@ The essential safety tool every OpenClaw user needs in 2026.
 
 ## Installation
 
-Drop `safe-skill-auditor.md` into your `~/.openclaw/skills/` folder and restart OpenClaw.
+Drop `clawsentinel.md` into your `~/.openclaw/skills/` folder and restart OpenClaw.
 
 ## License
 
